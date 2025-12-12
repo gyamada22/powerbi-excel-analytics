@@ -16,14 +16,6 @@
 
 **Total:** 251 aulas | ~48 horas | **10% concluído**
 
-## 🎯 **O que foi aprendido hoje (11/12/2025)**
-
-### ✅ Módulo 1 Completo - Ferramentas de Dados
-1. **Texto para Colunas** - Delimitadores, largura fixa, importação
-2. **Preenchimento Relâmpago** - Separar e juntar textos
-3. **Remover Duplicatas** - Uma ou múltiplas colunas
-4. **Validação de Dados** - Listas, CPF, fórmulas
-5. **Consolidar** - Soma e consolida dados de múltiplas planilhas ✅
 
 ## 🔄 **Próximos Passos**
 1. Completar módulo 2 (38 aulas restantes)
