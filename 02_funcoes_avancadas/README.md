@@ -5,6 +5,31 @@
 - **Duração:** 15h13min
 - **Progresso:** 100%
 
+## 📌 Conteúdos Aprendidos
+- Função SE
+- Função E
+- Função OU
+- CONT.SES
+- SOMASES
+- MÉDIASES
+- MÁXIMOSES
+- MÍNIMOSES
+- Trancamento Parcial
+- PROCV
+- PROCV com chave composta
+- PROCH
+- SEERRO
+- PROCX
+- PROCX com múltiplos critérios
+- CORRESP
+- ÍNDICE
+- ÍNDICE + CORRESP
+- DESLOC
+- INDIRETO
+- Intervalos Nomeados
+- SOMARPRODUTO
+
+
 ## 📚 Conteúdo Aprendido
 | Bloco | Tema | Duração | Status |
 |------|------|---------|--------|
