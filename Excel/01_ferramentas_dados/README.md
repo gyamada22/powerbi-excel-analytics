@@ -5,7 +5,7 @@
 - **Duração:** 3h41min
 - **Progresso:** 100%
 
-## 📚 Conteúdo Aprendido
+## 📚 Aulas Assistidas
 | Aula | Tema | Duração | Status |
 |------|------|---------|--------|
 | 1-5 | Texto para Colunas | 50min | ✅ |
@@ -49,12 +49,6 @@
 - **Tempo economia:** 80% vs. fazer manualmente
 - **Dica prática:** Sempre marcar "Rótulos na primeira linha"
 
-
-## 🧪 Exemplos Práticos
-1. `consolidar_vendas.xlsx` - Soma de 3 meses por vendedor
-2. `limpeza_clientes.csv` - Remoção de duplicatas
-3. `validacao_cpf.xlsx` - Regras para CPF válido
-
 ---
 
-📌 *Última prática: 11/12/2025 - Projeto de consolidação de relatórios*
+📌 *Última prática: 11/12/2025 - Consolidar*
