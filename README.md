@@ -4,7 +4,7 @@ Repositório dedicado ao meu aprendizado prático em **Excel aplicado à anális
 
 ## 📊 Progresso Geral
 
-████████████░░░░░░░░░░ 38%
+▰▰▰▰▱▱▱▱▱▱ 40%
 
 ---
 
