@@ -96,4 +96,6 @@
 - Combinação de múltiplas funções em um único problema
 - Simulação de cenários do mercado de trabalho
 
+---
+
 📌 *Última prática: 13/12/2025 - SOMARPRODUTO + Exercícios Gerais*
