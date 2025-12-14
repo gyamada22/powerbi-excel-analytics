@@ -4,33 +4,22 @@
 - **Aulas:** 79/79
 - **Duração:** 15h13min
 - **Progresso:** 100%
-
+- 
 ## 📌 Conteúdos Aprendidos
-- Função SE
-- Função E
-- Função OU
-- CONT.SES
-- SOMASES
-- MÉDIASES
-- MÁXIMOSES
-- MÍNIMOSES
-- Trancamento Parcial
-- PROCV
-- PROCV com chave composta
-- PROCH
-- SEERRO
-- PROCX
-- PROCX com múltiplos critérios
-- CORRESP
-- ÍNDICE
-- ÍNDICE + CORRESP
-- DESLOC
-- INDIRETO
+- Funções Lógicas: `SE`, `E`, `OU`
+- Funções Condicionais: `CONT.SES`, `SOMASES`, `MÉDIASES`, `MÁXIMOSES`, `MÍNIMOSES`
+- Trancamento Parcial de Células
+- Funções de Busca Clássicas: `PROCV`, `PROCH`
+- Funções de Busca Modernas: `PROCX`
+- Busca Avançada: Chave composta e múltiplos critérios
+- Funções de Localização: `CORRESP`
+- Funções de Retorno: `ÍNDICE`, `ÍNDICE + CORRESP`
+- Referências Dinâmicas: `DESLOC`, `INDIRETO`
 - Intervalos Nomeados
-- SOMARPRODUTO
+- Funções Avançadas: `SOMARPRODUTO`
+- Tratamento de Erros: `SEERRO`
 
-
-## 📚 Conteúdo Aprendido
+## 📚 Aulas Assistidas
 | Bloco | Tema | Duração | Status |
 |------|------|---------|--------|
 | 1 | Função SE - Introdução | 09:43 | ✅ |
