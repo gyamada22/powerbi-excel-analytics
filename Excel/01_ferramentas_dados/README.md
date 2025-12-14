@@ -5,49 +5,57 @@
 - **Duração:** 3h41min
 - **Progresso:** 100%
 
+## 📌 Conteúdos Aprendidos
+- Manipulação e tratamento de dados tabulares
+- Separação e reorganização de dados textuais
+- Limpeza de bases com remoção de duplicidades
+- Criação de regras e restrições para entrada de dados
+- Validação de informações com critérios personalizados
+- Consolidação de dados de múltiplas planilhas
+- Padronização e preparação de dados para análise
+
 ## 📚 Aulas Assistidas
 | Aula | Tema | Duração | Status |
 |------|------|---------|--------|
-| 1-5 | Texto para Colunas | 50min | ✅ |
-| 6-8 | Preenchimento Relâmpago | 32min | ✅ |
-| 9-10 | Remover Duplicatas | 22min | ✅ |
-| 11-19 | Validação de Dados | 74min | ✅ |
+| 1–5 | Texto para Colunas | 50min | ✅ |
+| 6–8 | Preenchimento Relâmpago | 32min | ✅ |
+| 9–10 | Remover Duplicatas | 22min | ✅ |
+| 11–19 | Validação de Dados | 74min | ✅ |
 | 20 | Consolidar | 12min | ✅ |
-| 21-23 | Exercícios | 19min | ✅ |
+| 21–23 | Exercícios Práticos | 19min | ✅ |
 
 ## 💡 Destaques do Módulo
+
 ### 🔧 **Texto para Colunas**
-- Delimitadores (vírgula, ponto-e-vírgula, tab)
-- Largura fixa para dados alinhados em colunas
-- Importação de arquivos .txt e .csv com encoding correto
-- Correção automática de separador decimal (vírgula vs. ponto)
+- Separação de dados por delimitadores ou largura fixa
+- Importação correta de arquivos `.txt` e `.csv`
+- Ajuste de separador decimal e encoding
+- Estruturação inicial de bases desorganizadas
 
 ### ⚡ **Preenchimento Relâmpago**
-- Reconhecimento inteligente de padrões
-- Separar nomes completos automaticamente (nome/sobrenome)
-- Juntar dados com formatação mantida
-- Preenchimento de séries baseadas em exemplos
+- Identificação automática de padrões
+- Separação e junção de textos com formatação
+- Criação rápida de colunas derivadas
+- Otimização de tarefas repetitivas
 
 ### 🗑️ **Remover Duplicatas**
-- Comparação em uma única coluna
-- Comparação em múltiplas colunas (dados compostos)
-- Manter primeiro registro encontrado
-- Ideal para limpeza de bases de clientes e produtos
+- Limpeza de registros repetidos
+- Comparação por uma ou múltiplas colunas
+- Preservação do primeiro registro válido
+- Aplicação em bases de clientes e produtos
 
 ### ✅ **Validação de Dados**
-- Criação de listas suspensas
-- Validação de CPF com fórmulas personalizadas
-- Mensagens de erro e entrada personalizadas
-- Listas condicionadas (dependência entre campos)
-- Fórmulas customizadas para regras complexas
-- Atualização automática com intervalos nomeados
+- Criação de listas suspensas e regras de entrada
+- Validações condicionais e dependentes
+- Mensagens personalizadas de erro e orientação
+- Uso de fórmulas e intervalos nomeados
+- Garantia de qualidade e consistência dos dados
 
-### 🎯 **Consolidar** 
-- **Função:** Agregar dados de múltiplas planilhas
-- **Operações:** Soma, Média, Contagem, Máx, Mín
-- **Caso de uso:** Unificar relatórios mensais de vendas
-- **Tempo economia:** 80% vs. fazer manualmente
-- **Dica prática:** Sempre marcar "Rótulos na primeira linha"
+### 🎯 **Consolidar**
+- Agregação de dados entre múltiplas planilhas
+- Operações de soma, média, contagem, máximo e mínimo
+- Centralização de relatórios periódicos
+- Redução significativa de trabalho manual
 
 ---
 
