@@ -27,5 +27,5 @@ Repositório dedicado ao meu aprendizado prático em **Excel aplicado à anális
 **Progresso geral:** **~50% concluído** ✅
 
 ---
+📌 *Atualizado em: 16/12/2025* | [Ver log diário completo](https://github.com/gyamada22/engineering-to-data/tree/main/daily)
 
-📌 *Atualizado em: 13/12/2025* | [Ver log diário completo](../logs_diarios/2025-12-11.md)
