@@ -117,6 +117,3 @@ Ao concluir este módulo, foram consolidadas as habilidades de:
 * Analisar grandes volumes de dados rapidamente
 * Utilizar segmentações e linha do tempo de forma profissional
 * Aplicar Tabelas Dinâmicas em contextos reais do mercado de trabalho
-
-📌 *Módulo essencial para qualquer profissional que trabalha com dados, análise, finanças ou BI no Excel.*
-
