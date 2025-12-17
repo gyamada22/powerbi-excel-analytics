@@ -84,16 +84,6 @@ O foco é sair do uso básico e dominar recursos avançados exigidos no **mercad
 
 ---
 
-## 🧪 Exercícios Práticos
-
-* Construção de Tabelas Dinâmicas do zero
-* Análises com múltiplos critérios
-* Uso combinado de segmentações e linha do tempo
-* Criação de relatórios interativos
-* Consolidação de conceitos aprendidos ao longo do módulo
-
----
-
 ## 🎓 Estrutura das Aulas
 
 | Aula | Tema                            | Duração |
