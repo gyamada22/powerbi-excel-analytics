@@ -69,16 +69,6 @@ O objetivo é transformar bases **desorganizadas ou brutas** em dados prontos pa
 
 ---
 
-## 🧪 Exercícios Práticos
-
-* Limpeza de bases reais utilizando Texto para Colunas
-* Padronização de informações com Preenchimento Relâmpago
-* Remoção de registros duplicados
-* Criação de validações robustas para evitar erros de digitação
-* Simulação de controles de dados utilizados no mercado de trabalho
-
----
-
 ## 🎓 Estrutura das Aulas
 
 | Aula | Tema                                        | Duração |
@@ -117,6 +107,3 @@ Ao concluir este módulo, foram consolidadas habilidades fundamentais para:
 * Evitar erros de entrada de dados
 * Criar bases confiáveis e padronizadas
 * Aumentar a produtividade e a qualidade das análises em Excel
-
-📌 *Módulo essencial para garantir qualidade e confiabilidade dos dados antes de qualquer análise.*
-
