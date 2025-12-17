@@ -167,6 +167,3 @@ Este módulo consolidou:
 * Capacidade de interpretar demandas reais
 * Flexibilidade para resolver problemas de **múltiplas formas**
 * Uso profissional de funções avançadas e ferramentas do Excel
-
-📌 *Módulo essencial para transição do aprendizado técnico para aplicação prática no mercado de trabalho.*
-
