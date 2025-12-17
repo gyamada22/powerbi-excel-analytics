@@ -23,7 +23,7 @@ Repositório dedicado ao meu aprendizado prático em **Excel aplicado à anális
 | 9. Previsão e Solver | 11 | ⏳ **Pendente** | 2h21 | 0% |
 | 10. Proteção e Impressão | 11 | ⏳ **Pendente** | 1h08 | 0% |
 
-**Total:** 251 aulas | ~48 horas  
+**Total:** 251 aulas | ~49 horas  
 **Progresso geral:** **~50% concluído** ✅
 
 ---
