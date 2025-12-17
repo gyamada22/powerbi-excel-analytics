@@ -108,15 +108,6 @@ Este módulo tem como objetivo o **domínio profissional das principais funçõe
 
 ---
 
-## 🧪 Exercícios Práticos
-
-* Exercícios de fixação por função
-* Combinação de múltiplas funções em um único problema
-* Simulação de cenários reais do mercado de trabalho
-* Construção de soluções alternativas para o mesmo problema
-
----
-
 ## 🎓 Estrutura das Aulas
 
 | Bloco | Tema                                           |
@@ -149,5 +140,3 @@ Ao final deste módulo, foi consolidada a capacidade de:
 * Criar planilhas profissionais e reutilizáveis
 * Escolher a melhor função para cada cenário
 * Atuar com Excel em nível exigido pelo mercado de trabalho
-
-📌 *Módulo essencial para quem deseja dominar Excel de forma prática e profissional.*
