@@ -8,6 +8,18 @@ Repositório dedicado ao meu aprendizado prático em **Excel aplicado à anális
 
 ---
 
+## 🧠 Competências Desenvolvidas em Excel
+
+- Organização e limpeza de dados
+- Análises com **funções avançadas** (SE, PROCV/XLOOKUP, ÍNDICE, CORRESP, SOMASES, CONT.SES)
+- Criação e leitura de **Tabelas Dinâmicas**
+- Análise temporal com **funções de data**
+- Análises financeiras básicas
+- Uso de **Solver** e ferramentas de previsão
+- Construção de planilhas claras e reutilizáveis
+
+---
+
 ## 📈 **Status Geral dos Módulos**
 
 | Módulo | Aulas | Status | Horas | Progresso |
