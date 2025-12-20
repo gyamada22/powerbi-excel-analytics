@@ -5,7 +5,7 @@
 * **Aulas:** 11/11  
 * **Duração Total:** 1h08min  
 * **Progresso:** 100%
-
+* **19/12/2025**
 ---
 
 ## 🎯 Objetivo do Módulo
