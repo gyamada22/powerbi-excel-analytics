@@ -1,4 +1,4 @@
-# 📊 Módulo 11 — Gráficos
+# 📊 Módulo 5 — Gráficos
 
 ## ✅ Status: CONCLUÍDO
 
