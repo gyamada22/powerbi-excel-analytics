@@ -11,10 +11,10 @@ Repositório dedicado ao meu aprendizado prático em **Excel aplicado à anális
 
 ### 🧠 Competências Desenvolvidas em Excel
 
-- ETL e preparação de dados com Power Query
-- Modelagem e análise com Power Pivot e Tabelas Dinâmicas
-- Análises com funções avançadas e matrizes dinâmicas
-- Análises temporais, financeiras e simulações com Solver
+- ETL e preparação de dados com **Power Query**
+- Modelagem e análise com **Power Pivot** e **Tabelas Dinâmicas**
+- Análises com **funções avançadas** e matrizes dinâmicas
+- Análises temporais, financeiras e simulações com **Solver**
 - Desenvolvimento de planilhas analíticas reutilizáveis
 
 
