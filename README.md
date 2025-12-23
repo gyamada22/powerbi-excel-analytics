@@ -13,9 +13,11 @@ Repositório dedicado ao meu aprendizado prático em **Excel aplicado à anális
 
 - ETL e transformação de dados com **Power Query**
 - Modelagem e análise com **Power Pivot** e **Tabelas Dinâmicas**
+- Criação de **medidas e KPIs em DAX** (Power Pivot)
 - Uso avançado de **funções analíticas** e **matrizes dinâmicas**
 - Análises temporais, financeiras e simulações com **Solver**
 - Criação de **dashboards e planilhas analíticas reutilizáveis**
+
 
 
 ---
